@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nayem Uddin</h1>
-<h3 align="center">A passionate native android developer from Bangladesh</h3>
+<h3 align="center">A Lazy Competitive Programmer from Bangladesh</h3>
 
 <br/>
 
@@ -10,9 +10,6 @@
  
 <br/>
 
-
-
-- 🌱Currently, I am actively engaged in developing Android applications utilizing the MVVM (Model-View-ViewModel) architecture pattern. In the near future, I am preparing to dive into the world of Jetpack Compose.
 - 📫 How to reach me **nayem.uddin332@gmail.com**
 <br/>
 
