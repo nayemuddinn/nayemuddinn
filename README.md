@@ -52,10 +52,12 @@
 ### Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/nayem-uddinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/outlast_nate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/outlast_nate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="codechef" height="30" width="40" /></a>
-  <a href="https://leetcode.com/outlast_nate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="mailto:nayem.uddin332@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+
+
+ <a href="mailto:nayem.uddin332@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="30" />
+</a>
+
 </p>  
 
 ---
