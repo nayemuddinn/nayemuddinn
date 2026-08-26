@@ -32,9 +32,11 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nayemuddinn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nayemuddinn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayemuddinn&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  
 </p>
+
+
 
 <br/>
 
